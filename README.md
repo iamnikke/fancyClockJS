@@ -10,16 +10,15 @@ http://nikkemarttila.com/fancyclock
 - Include them in your page file <br>
 
 <h2> Example </h2>
-<html>
+
     <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
     </head>
-<body>
+
 
     <div class="fancyClock container">
         <h1 id="fancyClock"></h1>
     </div>
         
     <script src="fancyClock.js"></script>
-</body>
-</html>
+
